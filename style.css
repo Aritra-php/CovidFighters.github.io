@@ -1,0 +1,78 @@
+*
+{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+.navbar
+{
+    background-color:#EE6614 ;
+}
+.nav-link 
+{
+   color:#EEB914;
+}
+.navbar-toggler
+{
+    background-color:#EB14EE ;
+}
+.bgimage
+{
+    background-image: url(national-cancer-institute-701-FJcjLAQ-unsplash.jpg);
+    background-repeat: no-repeat;
+    border-radius:50%;
+    height:200px;
+    width:200px;
+    background-size:cover;
+    background-position:center center center;
+}
+.section
+{
+    align-items: center;
+}
+.bgimage1
+{
+    background-image: url(photo-1583324113626-70df0f4deaab.jfif);
+    background-repeat: no-repeat;
+    border-radius:50%;
+    height:200px;
+    width:200px;
+    background-size:cover;
+    background-position:center center center;
+}
+.bgimage2
+{
+    background-image: url(ashkan-forouzani-ignxm3E1Rg4-unsplash.jpg);
+    float: right;
+    background-repeat: no-repeat;
+    border-radius:50%;
+    height:200px;
+    width:200px;
+    background-size:cover;
+    background-position:center center center;
+}
+.bgimage3
+{
+    background-image: url(90175c13.png);
+    float: right;
+    background-repeat: no-repeat;
+    border-radius:50%;
+    height:200px;
+    width:200px;
+    background-size:cover;
+    background-position:center center center;
+}
+.bgimage4
+{
+    background-image: url(viki-mohamad-hYcSP6SpoK0-unsplash.jpg);
+    float: right;
+    background-repeat: no-repeat;
+    border-radius:50%;
+    height:200px;
+    width:200px;
+    background-size:cover;
+    background-position:center center center;
+}
+    
